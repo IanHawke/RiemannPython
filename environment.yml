@@ -1,0 +1,8 @@
+name: riemannpython
+dependencies:
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipywidgets
+  - scipy
+  
